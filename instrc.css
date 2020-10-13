@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+body{
+    text-align: center;
+    font-family: 'Architects Daughter', cursive;
+    background-image: url("https://www.fg-a.com/wallpapers/white-marble-4-2018.jpg");
+    background-size: cover;
+    font-size: 70px;
+}
+
+
+
+button{
+height: 300px;
+width: 500px;
+}
